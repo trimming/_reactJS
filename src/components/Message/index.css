@@ -1,0 +1,11 @@
+.Message{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: rgb(74, 80, 74);
+   
+}
+.Message-text{
+    border: solid 2px black;
+    margin-left: 200px;
+    margin-right: 200px;
+}
